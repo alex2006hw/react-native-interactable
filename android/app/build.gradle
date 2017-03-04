@@ -44,5 +44,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     // node_modules
-    compile 'com.facebook.react:react-native:+'
+    compile 'com.facebook.react:react-native:0.19.+'
 }
